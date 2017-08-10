@@ -16,7 +16,7 @@ cols: 3
 data: 
 [364.0650494557109, 	               0,             289.0817025818506, 
          0,       	       363.9129509581448,     290.6306176178587, 	
-         0,              		0,                             1]
+         0,              	         0,                            1]
 
 distortion_model: plumb_bob
 distortion_coefficients:
