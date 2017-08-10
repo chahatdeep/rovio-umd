@@ -4,6 +4,7 @@ This repository is a modified version of ROVIO (ETH Zurich) and is maintained by
 
 ## Parrot's SLAMDUNK Calibration Parameters:
 1. **Camera Intrinsics For Left Rectified Image:**
+
 image_width: 576
 
 image_height: 576
