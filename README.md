@@ -25,4 +25,4 @@ cols: 5
 data:  [-0.003263766429001, 0.0009103387541933109, 0.001585751513802, -9.782840671580356e-05, 0.0]
 ```  
   
-2. **Extrinsic between Left Camera and IMU is given [*here*]**(https://github.com/chahatdeep/rovio-umd/blob/master/cfg/rovio.info)
+2. **Extrinsic between Left Camera and IMU is given [*here*](https://github.com/chahatdeep/rovio-umd/blob/master/cfg/rovio.info)**
