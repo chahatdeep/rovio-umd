@@ -1,5 +1,6 @@
 # rovio-umd
-This repository is a modified version of ROVIO (ETH Zurich) and is maintained by the University of Maryland graduate students.
+This repository is a modified version of ROVIO (ETH Zurich) and is maintained by the University of Maryland graduate students. All software rights are reserved with ASL group of ETH Zurich.
+
 For support, contact:
 - [Chahat Deep Singh] [chahat@terpmail.umd.edu]
 - [Nitin J Sanket] [nitinsan@terpmail.umd.edu]
