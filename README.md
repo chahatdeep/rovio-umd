@@ -4,7 +4,6 @@ This repository is a modified version of ROVIO (ETH Zurich) and is maintained by
 For support, contact:
 - [Chahat Deep Singh] [chahat@terpmail.umd.edu]
 - [Nitin J Sanket] [nitinsan@terpmail.umd.edu]
-- [Yuxin Ma] [yuxinma2005@gmail.com]
 
 ## Parrot's SLAMDUNK Calibration Parameters:
 1. **Camera Intrinsics For Left Rectified Image:**
